@@ -1,0 +1,9 @@
+To compile code:
+cd /src
+make build PLATFORM=HOST VERBOSE=ENABLE
+
+To run code:
+./course1_final_assessemnt.out
+
+To clean code:
+make clean
